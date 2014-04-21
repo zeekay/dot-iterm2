@@ -5229,9 +5229,9 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>74 366 924 485 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>536 306 894 474 0 0 1440 878 </string>
+	<string>6 397 876 444 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>579 14 843 426 0 0 1440 878 </string>
+	<string>707 225 570 346 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>1049 71 570 346 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5239,17 +5239,17 @@
 	<key>NSWindow Frame iTerm Window 12</key>
 	<string>817 289 570 346 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>46 295 986 583 0 0 1440 878 </string>
+	<string>284 253 1270 513 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>732 4 570 346 0 0 1440 878 </string>
+	<string>610 761 641 547 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>546 190 891 668 0 0 1440 878 </string>
+	<string>504 532 570 346 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>146 529 570 346 0 0 1440 878 </string>
+	<string>492 532 570 346 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>2079 493 570 346 0 0 2560 1418 </string>
+	<string>747 532 570 346 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>796 246 570 346 0 0 1680 1028 </string>
+	<string>1 463 822 412 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
 	<string>770 21 570 346 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
@@ -6949,7 +6949,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/zk/.ellipsis/platform/osx/iterm2</string>
+	<string>/Users/zk/.iterm2</string>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -6969,7 +6969,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-01-31T02:40:43Z</date>
+	<date>2014-04-20T23:33:40Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
