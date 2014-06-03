@@ -3,7 +3,6 @@
 # zeekay/dot-iterm2
 # My iterm2 configuration.
 
-pkg.install() {
-    ellipsis.backup $HOME/.iterm2
-    ln -s $PKG_PATH $HOME/.iterm2
+pkg.link() {
+    fs.link_file $PKG_PATH
 }
