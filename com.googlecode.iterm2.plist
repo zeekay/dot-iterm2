@@ -5422,13 +5422,13 @@
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
 	<key>NSWindow Frame Preferences</key>
-	<string>866 909 924 485 0 0 2560 1418 </string>
+	<string>446 252 924 485 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2604 567 787 330 2560 540 1440 878 </string>
+	<string>41 75 1003 541 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1458 147 1039 394 0 0 2560 1418 </string>
+	<string>597 656 1054 649 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>2809 947 570 346 2560 540 1440 878 </string>
+	<string>521 139 910 394 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>203 20 570 346 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -6236,7 +6236,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.047138497233390808</real>
+			<real>0.062698781490325928</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -7059,7 +7059,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.047138497233390808</real>
+			<real>0.062698781490325928</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -7152,7 +7152,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-06-03T09:12:36Z</date>
+	<date>2014-06-05T17:10:04Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
