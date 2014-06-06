@@ -4181,9 +4181,9 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>217 275 924 485 0 0 2560 1418 </string>
+	<string>320 216 924 485 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 1062 2560 356 0 0 2560 1418 </string>
+	<string>0 878 1440 356 0 0 1440 878 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -4363,7 +4363,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>7.3118429183959961</real>
+			<real>15</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -4989,7 +4989,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.041999999433755875</real>
+			<real>0.062698781490325928</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -5188,7 +5188,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>7.3118429183959961</real>
+			<real>15</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -5814,7 +5814,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.041999999433755875</real>
+			<real>0.062698781490325928</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -5907,7 +5907,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-06-03T09:25:16Z</date>
+	<date>2014-06-05T17:22:41Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
