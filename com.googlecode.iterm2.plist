@@ -5262,6 +5262,8 @@
 	<false/>
 	<key>EnableRendezvous</key>
 	<false/>
+	<key>FlashTabBarInFullscreen</key>
+	<false/>
 	<key>FocusFollowsMouse</key>
 	<false/>
 	<key>FsTabDelay</key>
@@ -5379,6 +5381,10 @@
 	<true/>
 	<key>HideTab</key>
 	<true/>
+	<key>HideTabCloseButton</key>
+	<false/>
+	<key>HideTabNumber</key>
+	<true/>
 	<key>HighlightTabLabels</key>
 	<false/>
 	<key>HotKeyBookmark</key>
@@ -5435,13 +5441,13 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>55 168 796 474 0 0 1440 877 </string>
+	<string>648 69 770 439 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>432 364 575 392 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>291 122 570 347 0 0 1440 877 </string>
+	<string>12 431 885 443 0 0 2560 1417 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -7091,6 +7097,10 @@
 			<string>/Volumes/Data/zk</string>
 		</dict>
 	</array>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -7220,5 +7230,7 @@
 	<false/>
 	<key>iTerm Version</key>
 	<string>2.9.20140721-nightly</string>
+	<key>kPreferenceKeyWindowStyle</key>
+	<integer>0</integer>
 </dict>
 </plist>
