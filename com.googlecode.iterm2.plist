@@ -5443,15 +5443,15 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>522 242 918 498 0 0 1440 877 </string>
+	<string>1494 674 796 474 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>432 364 575 392 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>100 119 1068 859 0 0 2560 1417 </string>
+	<string>23 34 1235 843 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>2887 958 843 459 2560 540 1440 877 </string>
+	<string>2887 1070 570 347 2560 540 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>0 1070 570 347 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -7185,7 +7185,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-07-27T20:15:17Z</date>
+	<date>2014-07-29T20:15:21Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
