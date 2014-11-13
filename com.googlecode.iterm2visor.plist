@@ -25,7 +25,7 @@
 	<key>CloseBookmarksWindowAfterOpening</key>
 	<true/>
 	<key>ClosingHotkeySwitchesSpaces</key>
-	<false/>
+	<true/>
 	<key>ColorInvertedCursor</key>
 	<true/>
 	<key>CommandSelection</key>
@@ -3989,7 +3989,7 @@
 	<key>Default Arrangement Name</key>
 	<string>Default Arrangement</string>
 	<key>Default Bookmark Guid</key>
-	<string>D252703C-37CE-43B9-9FE1-A35508C7E31E</string>
+	<string>E90E04DF-C1A6-4DED-9242-81DF6973364C</string>
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
@@ -4124,7 +4124,7 @@
 	<key>HighlightTabLabels</key>
 	<false/>
 	<key>HotKeyBookmark</key>
-	<string>D252703C-37CE-43B9-9FE1-A35508C7E31E</string>
+	<string>E90E04DF-C1A6-4DED-9242-81DF6973364C</string>
 	<key>HotKeyTogglesWindow</key>
 	<true/>
 	<key>Hotkey</key>
@@ -4152,9 +4152,7 @@
 	<key>MinimumContrast</key>
 	<real>0.0</real>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Pictures/backgrounds</string>
-	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{1170, 731}</string>
+	<string>~/.ellipsis/packages/iterm2</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -4172,18 +4170,16 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>322</string>
+		<string>302</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>1542 309 796 474 0 0 2560 1417 </string>
-	<key>NSWindow Frame UKCrashReporter</key>
-	<string>99 293 592 584 0 0 1440 877 </string>
+	<string>392 -83 924 485 0 0 1280 697 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 1060 2560 357 0 0 2560 1417 </string>
+	<string>0 720 1280 378 0 0 1280 698 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -4355,7 +4351,7 @@
 			<key>Background Image Location</key>
 			<string></string>
 			<key>Blend</key>
-			<real>0.29999999999999999</real>
+			<real>0.30000001192092896</real>
 			<key>Blink Allowed</key>
 			<false/>
 			<key>Blinking Cursor</key>
@@ -4989,7 +4985,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.074535410502958588</real>
+			<real>0.07453540712594986</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -5835,10 +5831,8 @@
 			<string>/Volumes/Data/zk</string>
 		</dict>
 	</array>
-	<key>NoSyncDoNotWarnBeforeMultilinePaste</key>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
-	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
-	<integer>0</integer>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -5891,7 +5885,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/zk/.ellipsis/packages/iterm2</string>
+	<string>/Users/david/.ellipsis/packages/iterm2</string>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -5903,13 +5897,13 @@
 	<key>RightOption</key>
 	<integer>3</integer>
 	<key>SUEnableAutomaticChecks</key>
-	<false/>
+	<true/>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml</string>
+	<string>http://iterm2.com/appcasts/final.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
-	<key>SUSendProfileInfo</key>
-	<false/>
+	<key>SULastCheckTime</key>
+	<date>2014-11-13T06:21:08Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -5934,8 +5928,6 @@
 	<integer>10</integer>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<true/>
-	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1406403200</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -5964,6 +5956,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.9.20140721-nightly</string>
+	<string>2.0.0.20141103</string>
 </dict>
 </plist>
