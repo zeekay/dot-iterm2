@@ -5247,7 +5247,7 @@
 	<key>Default Arrangement Name</key>
 	<string>Arrangement 1</string>
 	<key>Default Bookmark Guid</key>
-	<string>8634365E-D5DB-4BE2-9E10-BF96AF083859</string>
+	<string>FDFF2972-506F-458B-B10B-B4F710961013</string>
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
@@ -5415,8 +5415,6 @@
 	<false/>
 	<key>MinimumContrast</key>
 	<real>0.0</real>
-	<key>NSFontPanelAttributes</key>
-	<string>1, 4</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/.ellipsis/packages/iterm2</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -5436,26 +5434,22 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>322</string>
+		<string>302</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>1494 712 796 474 0 0 2560 1417 </string>
-	<key>NSWindow Frame SUUpdateAlertFrame</key>
-	<string>432 364 575 392 0 0 1440 877 </string>
-	<key>NSWindow Frame UKCrashReporter</key>
-	<string>128 216 592 584 0 0 1440 877 </string>
+	<string>325 191 924 485 0 0 1280 698 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>848 95 384 129 0 0 1280 698 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2576 555 710 347 2560 540 1440 877 </string>
+	<string>152 157 570 366 0 0 1280 698 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>696 606 1284 811 0 0 2560 1417 </string>
+	<string>356 242 570 451 0 0 1280 698 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>0 1070 570 347 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 3</key>
-	<string>675 632 570 347 0 0 2560 1417 </string>
+	<string>173 12 570 451 0 0 1280 698 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -6259,7 +6253,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.073266457100591723</real>
+			<real>0.073266454041004181</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -6272,10 +6266,8 @@
 			<false/>
 			<key>Use Italic Font</key>
 			<false/>
-			<key>Use Non-ASCII Font</key>
-			<true/>
 			<key>Vertical Spacing</key>
-			<real>0.99742916980421681</real>
+			<real>0.99742919206619263</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
@@ -7109,10 +7101,8 @@
 			<string>/Volumes/Data/zk</string>
 		</dict>
 	</array>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -7167,7 +7157,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/zk/.ellipsis/packages/iterm2</string>
+	<string>/Users/david/.ellipsis/packages/iterm2</string>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -7183,13 +7173,11 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/nightly.xml</string>
+	<string>http://iterm2.com/appcasts/testing.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-07-30T20:15:20Z</date>
-	<key>SUSendProfileInfo</key>
-	<false/>
+	<date>2014-11-13T03:28:36Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -7214,8 +7202,6 @@
 	<integer>10</integer>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<true/>
-	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1406403200</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -7241,7 +7227,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.9.20140721-nightly</string>
+	<string>2.0.0.20141103</string>
 	<key>kPreferenceKeyWindowStyle</key>
 	<integer>0</integer>
 </dict>
