@@ -5443,7 +5443,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>119 383 924 485 0 0 1440 877 </string>
+	<string>317 865 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
@@ -5451,15 +5451,15 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2595 566 850 332 2560 540 1440 877 </string>
+	<string>198 102 1074 315 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>2866 1050 570 366 2560 540 1440 877 </string>
+	<string>675 1025 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>0 337 992 540 0 0 1440 877 </string>
+	<string>0 368 738 502 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>527 132 934 740 0 0 1440 877 </string>
+	<string>0 562 1403 315 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>0 327 1440 545 0 0 1440 877 </string>
+	<string>380 1045 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
 	<string>254 821 570 367 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
@@ -6277,7 +6277,7 @@
 			<key>Use Bright Bold</key>
 			<false/>
 			<key>Use Canonical Parser</key>
-			<false/>
+			<true/>
 			<key>Use Italic Font</key>
 			<false/>
 			<key>Vertical Spacing</key>
@@ -7201,7 +7201,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-11-15T02:10:33Z</date>
+	<date>2014-12-06T09:27:35Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
