@@ -5443,7 +5443,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>317 865 924 485 0 0 2560 1417 </string>
+	<string>100 364 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
@@ -5451,15 +5451,15 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>198 102 1074 315 0 0 2560 1417 </string>
+	<string>2567 544 1021 324 2560 540 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>675 1025 570 366 0 0 2560 1417 </string>
+	<string>264 164 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>0 368 738 502 0 0 1440 877 </string>
+	<string>2569 819 1431 598 2560 540 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>0 562 1403 315 0 0 1440 877 </string>
+	<string>365 551 1074 502 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>380 1045 570 366 0 0 2560 1417 </string>
+	<string>316 206 1035 655 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
 	<string>254 821 570 367 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
@@ -5641,7 +5641,7 @@
 			<key>Blinking Cursor</key>
 			<false/>
 			<key>Blur</key>
-			<true/>
+			<false/>
 			<key>Blur Radius</key>
 			<real>15</real>
 			<key>Bold Color</key>
@@ -6267,7 +6267,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.073266454041004181</real>
+			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -6464,7 +6464,7 @@
 			<key>Blinking Cursor</key>
 			<false/>
 			<key>Blur</key>
-			<true/>
+			<false/>
 			<key>Blur Radius</key>
 			<real>15</real>
 			<key>Bold Color</key>
@@ -7090,7 +7090,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.071248613165680472</real>
+			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -7103,8 +7103,6 @@
 			<false/>
 			<key>Use Italic Font</key>
 			<false/>
-			<key>Use Non-ASCII Font</key>
-			<true/>
 			<key>Vertical Spacing</key>
 			<real>1</real>
 			<key>Visual Bell</key>
@@ -7201,7 +7199,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-12-06T09:27:35Z</date>
+	<date>2014-12-17T17:53:44Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
