@@ -5454,9 +5454,9 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>459 678 231 329 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>776 565 924 485 0 0 2560 1417 </string>
+	<string>245 238 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>824 751 400 129 0 0 2048 1129 </string>
+	<string>1088 967 384 129 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
@@ -5464,11 +5464,11 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>13 1035 570 366 0 0 2560 1417 </string>
+	<string>1694 41 778 476 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>13 66 1403 1336 0 0 2560 1417 </string>
+	<string>430 564 1010 848 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>66 148 948 418 0 0 2560 1417 </string>
+	<string>66 199 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>104 346 570 367 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -7214,7 +7214,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-04-16T03:24:41Z</date>
+	<date>2015-04-18T02:09:18Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7262,7 +7262,7 @@
 	<key>WindowStyle</key>
 	<integer>0</integer>
 	<key>WordCharacters</key>
-	<string>/-+\~_.</string>
+	<string>`.l;kjo/-+\~_.</string>
 	<key>findIgnoreCase_iTerm</key>
 	<false/>
 	<key>findRegex_iTerm</key>
