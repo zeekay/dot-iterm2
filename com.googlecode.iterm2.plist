@@ -5404,7 +5404,7 @@
 	<key>InstantReplay</key>
 	<false/>
 	<key>JobName</key>
-	<false/>
+	<true/>
 	<key>LeftCommand</key>
 	<integer>7</integer>
 	<key>LeftOption</key>
@@ -5454,7 +5454,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>459 678 231 329 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>245 238 924 485 0 0 1440 877 </string>
+	<string>134 223 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>1088 967 384 129 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
@@ -5464,15 +5464,15 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1694 41 778 476 0 0 2560 1417 </string>
+	<string>23 27 1294 441 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>430 564 1010 848 0 0 2560 1417 </string>
+	<string>1 0 1438 876 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>66 199 570 366 0 0 2560 1417 </string>
+	<string>586 219 850 502 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>104 346 570 367 0 0 2560 1417 </string>
+	<string>125 263 672 540 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>316 495 570 366 0 0 1440 877 </string>
+	<string>569 189 871 547 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
 	<string>111 399 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
@@ -7138,6 +7138,10 @@
 	<integer>0</integer>
 	<key>NoSyncSilenceAnnoyingBellAutomatically</key>
 	<true/>
+	<key>NoSyncTimeOfLastPromo</key>
+	<real>453233917.35533297</real>
+	<key>NoSyncTimeOfLastPromoDownload</key>
+	<real>453233917.35560501</real>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -7214,7 +7218,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-04-18T02:09:18Z</date>
+	<date>2015-05-13T18:19:22Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7258,7 +7262,7 @@
 	<key>Window Arrangements</key>
 	<dict/>
 	<key>WindowNumber</key>
-	<false/>
+	<true/>
 	<key>WindowStyle</key>
 	<integer>0</integer>
 	<key>WordCharacters</key>
@@ -7268,7 +7272,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.0.0.20150412</string>
+	<string>2.1.1</string>
 	<key>kPreferenceKeyWindowStyle</key>
 	<integer>0</integer>
 </dict>
