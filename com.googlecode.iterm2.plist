@@ -5454,7 +5454,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>459 678 231 329 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>134 223 924 485 0 0 1440 877 </string>
+	<string>3019 870 605 485 2560 540 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>1088 967 384 129 0 0 2560 1417 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
@@ -5464,13 +5464,13 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>23 27 1294 441 0 0 1440 877 </string>
+	<string>16 13 1400 368 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1 0 1438 876 0 0 1440 877 </string>
+	<string>0 11 1396 859 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>586 219 850 502 0 0 1440 877 </string>
+	<string>643 456 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>125 263 672 540 0 0 2560 1417 </string>
+	<string>125 433 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
 	<string>569 189 871 547 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
@@ -6375,11 +6375,11 @@
 			<key>Ansi 15 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.937946617603302</real>
+				<real>0.983786940574646</real>
 				<key>Green Component</key>
-				<real>0.97590428590774536</real>
+				<real>0.98377013206481934</real>
 				<key>Red Component</key>
-				<real>0.98715204000473022</real>
+				<real>0.98379969596862793</real>
 			</dict>
 			<key>Ansi 2 Color</key>
 			<dict>
@@ -6460,11 +6460,11 @@
 			<key>Background Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.96258032321929932</real>
+				<real>0.99999129772186279</real>
 				<key>Green Component</key>
-				<real>0.98207062482833862</real>
+				<real>0.99997437000274658</real>
 				<key>Red Component</key>
-				<real>0.98728048801422119</real>
+				<real>1</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -7141,7 +7141,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>453233917.35533297</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>453233917.35560501</real>
+	<real>459408375.85129702</real>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -7218,7 +7218,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-05-13T18:19:22Z</date>
+	<date>2015-07-23T16:50:34Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
