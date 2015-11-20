@@ -5592,11 +5592,11 @@
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
-	<true/>
+	<false/>
 	<key>DimInactiveSplitPanes</key>
 	<false/>
 	<key>DimOnlyText</key>
-	<true/>
+	<false/>
 	<key>DisableFullscreenTransparency</key>
 	<false/>
 	<key>EnableGrowl</key>
@@ -5801,9 +5801,9 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>810 666 445 103 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>495 282 606 456 0 0 1440 877 </string>
+	<string>495 398 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>1088 967 384 129 0 0 2560 1417 </string>
+	<string>520 562 400 129 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
@@ -5811,9 +5811,9 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>591 12 829 690 0 0 1440 877 </string>
+	<string>369 192 633 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>474 259 915 575 0 0 1440 877 </string>
+	<string>556 65 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>851 722 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5831,7 +5831,7 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>575 47 1201 830 0 0 1440 877 </string>
+	<string>575 506 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>189 352 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -7630,12 +7630,16 @@
 	<true/>
 	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
 	<integer>0</integer>
+	<key>NoSyncLastTipTime</key>
+	<real>467975149.91952503</real>
 	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<true/>
 	<key>NoSyncSilenceAnnoyingBellAutomatically</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -7644,6 +7648,8 @@
 	<real>453233917.35533297</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
 	<real>467677534.38135898</real>
+	<key>NoSyncTipsDisabled</key>
+	<true/>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -7720,7 +7726,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-10-30T07:03:58Z</date>
+	<date>2015-11-20T21:51:27Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7734,7 +7740,7 @@
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.17716096341609955</real>
+	<real>0.14982972756410257</real>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
