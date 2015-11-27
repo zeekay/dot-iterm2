@@ -5799,7 +5799,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>119 296 231 329 0 0 1440 877 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>810 666 445 103 0 0 2560 1417 </string>
+	<string>744 97 445 77 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>495 398 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -5811,9 +5811,9 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>369 192 633 367 0 0 1440 877 </string>
+	<string>518 510 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>556 65 570 367 0 0 1440 877 </string>
+	<string>13 25 1298 843 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>851 722 570 366 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5833,7 +5833,7 @@
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>575 506 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>189 352 570 366 0 0 1440 877 </string>
+	<string>189 335 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
 	<string>313 511 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
@@ -7602,6 +7602,8 @@
 			<array/>
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
+			<key>Thin Strokes</key>
+			<false/>
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Triggers</key>
@@ -7613,6 +7615,8 @@
 			<key>Use Bright Bold</key>
 			<false/>
 			<key>Use Canonical Parser</key>
+			<false/>
+			<key>Use HFS Plus Mapping</key>
 			<false/>
 			<key>Use Italic Font</key>
 			<false/>
@@ -7722,11 +7726,11 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>http://iterm2.com/appcasts/testing3.xml</string>
+	<string>https://iterm2.com/appcasts/testing3.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-11-20T21:51:27Z</date>
+	<date>2015-11-25T22:10:03Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7780,7 +7784,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.9.20151001</string>
+	<string>2.9.20151111</string>
 	<key>kPreferenceKeyWindowStyle</key>
 	<integer>0</integer>
 </dict>
