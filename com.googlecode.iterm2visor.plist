@@ -4,6 +4,10 @@
 <dict>
 	<key>AFRStrokeThickness</key>
 	<real>-0.10000000149011612</real>
+	<key>AboutToPasteTabsWithCancel</key>
+	<true/>
+	<key>AboutToPasteTabsWithCancel_selection</key>
+	<integer>2</integer>
 	<key>AdjustWindowForFontSizeChange</key>
 	<true/>
 	<key>AdvancedFontRendering</key>
