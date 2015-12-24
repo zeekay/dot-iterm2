@@ -5811,19 +5811,19 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>518 510 570 367 0 0 1440 877 </string>
+	<string>576 361 864 503 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>13 25 1298 843 0 0 1440 877 </string>
+	<string>119 490 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
-	<string>851 722 570 366 0 0 2560 1417 </string>
+	<string>372 340 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
-	<string>899 675 570 366 0 0 2560 1417 </string>
+	<string>186 398 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 12</key>
-	<string>947 627 570 366 0 0 2560 1417 </string>
+	<string>180 307 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 13</key>
-	<string>995 580 570 366 0 0 2560 1417 </string>
+	<string>435 269 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 14</key>
-	<string>456 259 570 366 0 0 1440 877 </string>
+	<string>468 393 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 15</key>
 	<string>477 236 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 16</key>
@@ -5831,21 +5831,21 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>575 506 570 367 0 0 1440 877 </string>
+	<string>30 132 1018 724 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>189 335 570 367 0 0 1440 877 </string>
+	<string>284 256 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>313 511 570 366 0 0 1440 877 </string>
+	<string>776 510 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>111 392 570 366 0 0 1440 877 </string>
+	<string>120 101 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>132 445 570 366 0 0 1440 877 </string>
+	<string>132 428 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>707 864 570 366 0 0 2560 1417 </string>
+	<string>309 410 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
-	<string>755 817 570 366 0 0 2560 1417 </string>
+	<string>330 387 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
-	<string>803 769 570 366 0 0 2560 1417 </string>
+	<string>351 363 570 367 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -7730,7 +7730,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-11-25T22:10:03Z</date>
+	<date>2015-12-23T13:21:44Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7755,6 +7755,10 @@
 	<false/>
 	<key>TmuxDashboardLimit</key>
 	<integer>10</integer>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Command History</string>
+	</array>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<true/>
 	<key>UKCrashReporterLastCrashReportDate</key>
