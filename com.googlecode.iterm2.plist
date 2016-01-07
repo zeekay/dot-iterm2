@@ -5763,7 +5763,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 4</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Downloads</string>
+	<string>~/Desktop</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -5811,9 +5811,9 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>576 361 864 503 0 0 1440 877 </string>
+	<string>237 448 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>119 490 570 367 0 0 1440 877 </string>
+	<string>442 85 913 792 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>372 340 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5831,11 +5831,11 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>30 132 1018 724 0 0 1440 877 </string>
+	<string>227 99 962 707 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>284 256 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>776 510 570 367 0 0 1440 877 </string>
+	<string>89 259 850 588 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
 	<string>120 101 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
@@ -7630,6 +7630,8 @@
 			<string>/Volumes/Data/zk</string>
 		</dict>
 	</array>
+	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
+	<true/>
 	<key>NoSyncDoNotWarnBeforeMultilinePaste</key>
 	<true/>
 	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
@@ -7726,11 +7728,11 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/testing3.xml</string>
+	<string>http://iterm2.com/appcasts/testing3.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-12-23T13:21:44Z</date>
+	<date>2016-01-06T22:34:26Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7788,7 +7790,9 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.9.20151111</string>
+	<string>2.9.20151001</string>
+	<key>kCommandHistoryHasEverBeenUsed</key>
+	<true/>
 	<key>kPreferenceKeyWindowStyle</key>
 	<integer>0</integer>
 </dict>
