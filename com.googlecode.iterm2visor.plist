@@ -3997,7 +3997,7 @@
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
-	<true/>
+	<false/>
 	<key>DimInactiveSplitPanes</key>
 	<true/>
 	<key>DimOnlyText</key>
@@ -4210,7 +4210,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 139 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>204 213 918 512 0 0 1440 877 </string>
+	<string>453 463 918 381 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>43 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -4377,13 +4377,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.10016582906246185</real>
+				<real>0.10904054343700409</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.10016413033008575</real>
+				<real>0.10902790725231171</real>
 				<key>Red Component</key>
-				<real>0.10016712546348572</real>
+				<real>0.10952520370483398</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -4398,7 +4398,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>30</real>
+			<real>14.85372596153846</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>

@@ -5592,9 +5592,9 @@
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
-	<true/>
+	<false/>
 	<key>DimInactiveSplitPanes</key>
-	<true/>
+	<false/>
 	<key>DimOnlyText</key>
 	<true/>
 	<key>DisableFullscreenTransparency</key>
@@ -5805,7 +5805,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>119 296 231 329 0 0 1440 877 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>254 54 445 77 0 0 1440 877 </string>
+	<string>254 37 445 77 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>495 410 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -5815,13 +5815,13 @@
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>992 713 608 448 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>67 395 770 381 0 0 1440 877 </string>
+	<string>24 423 918 381 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>568 61 886 489 0 0 1440 877 </string>
+	<string>333 31 1060 727 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>669 163 610 433 0 0 1440 877 </string>
+	<string>3 48 1252 699 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>372 340 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5839,15 +5839,15 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>314 510 570 367 0 0 1440 877 </string>
+	<string>539 346 784 531 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>687 64 752 809 0 0 1440 877 </string>
+	<string>421 326 760 475 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>260 35 773 588 0 0 1440 877 </string>
+	<string>900 114 490 307 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>489 165 892 656 0 0 1440 877 </string>
+	<string>326 49 490 307 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>132 428 570 367 0 0 1440 877 </string>
+	<string>127 200 556 503 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
 	<string>309 410 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
@@ -5937,12 +5937,16 @@
 			</dict>
 			<key>Ansi 2 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.27470967173576355</real>
+				<real>0.42132097482681274</real>
+				<key>Color Space</key>
+				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.61546015739440918</real>
+				<real>0.81127119064331055</real>
 				<key>Red Component</key>
-				<real>0.10574381798505783</real>
+				<real>0.20019194483757019</real>
 			</dict>
 			<key>Ansi 3 Color</key>
 			<dict>
@@ -6016,13 +6020,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.099212273955345154</real>
+				<real>0.11646805703639984</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.099210605025291443</real>
+				<real>0.11646607518196106</real>
 				<key>Red Component</key>
-				<real>0.099213570356369019</real>
+				<real>0.11646955460309982</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -6050,7 +6054,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>30</real>
+			<real>14.957391826923075</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -6072,6 +6076,8 @@
 			<integer>80</integer>
 			<key>Command</key>
 			<string>/bin/bash -c zsh</string>
+			<key>Cursor Boost</key>
+			<real>0.0</real>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -6124,13 +6130,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.75558114051818848</real>
+				<real>0.67828196287155151</real>
 				<key>Color Space</key>
 				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.75556838512420654</real>
+				<real>0.67827045917510986</real>
 				<key>Red Component</key>
-				<real>0.75559091567993164</real>
+				<real>0.6782907247543335</real>
 			</dict>
 			<key>Guid</key>
 			<string>FDFF2972-506F-458B-B10B-B4F710961013</string>
@@ -6557,6 +6563,8 @@
 			<true/>
 			<key>Normal Font</key>
 			<string>Hack 10</string>
+			<key>Only The Default BG Color Uses Transparency</key>
+			<true/>
 			<key>Option Key Sends</key>
 			<integer>2</integer>
 			<key>Prompt Before Closing 2</key>
@@ -6708,7 +6716,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.039254345414201183</real>
+			<real>0.039150332840236689</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -6718,6 +6726,8 @@
 			<key>Use Bright Bold</key>
 			<false/>
 			<key>Use Canonical Parser</key>
+			<true/>
+			<key>Use HFS Plus Mapping</key>
 			<true/>
 			<key>Use Italic Font</key>
 			<false/>
@@ -7697,13 +7707,15 @@
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.22583884214743591</real>
+	<real>0.36596304086538467</real>
 	<key>SuppressRestartAnnouncement</key>
 	<true/>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
 	<integer>6</integer>
+	<key>TabStyle</key>
+	<integer>0</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>ThreeFingerEmulates</key>
@@ -7717,7 +7729,7 @@
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<true/>
 	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1408636544</real>
+	<real>1488512384</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
