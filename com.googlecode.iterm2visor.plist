@@ -3997,16 +3997,18 @@
 	<key>DeleteSendsCtrlH</key>
 	<false/>
 	<key>DimBackgroundWindows</key>
-	<false/>
+	<true/>
 	<key>DimInactiveSplitPanes</key>
-	<false/>
+	<true/>
 	<key>DimOnlyText</key>
-	<false/>
+	<true/>
 	<key>DisableFullscreenTransparency</key>
 	<false/>
 	<key>EnableGrowl</key>
 	<false/>
 	<key>EnableRendezvous</key>
+	<false/>
+	<key>FlashTabBarInFullscreen</key>
 	<false/>
 	<key>FocusFollowsMouse</key>
 	<false/>
@@ -4125,8 +4127,10 @@
 	<true/>
 	<key>HideTab</key>
 	<true/>
-	<key>HideTabNumber</key>
+	<key>HideTabCloseButton</key>
 	<true/>
+	<key>HideTabNumber</key>
+	<false/>
 	<key>HighlightTabLabels</key>
 	<false/>
 	<key>HotKeyBookmark</key>
@@ -4206,7 +4210,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 139 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>0 225 918 495 0 0 1440 877 </string>
+	<string>204 213 918 512 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>43 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -5997,12 +6001,14 @@
 	<false/>
 	<key>ShowBookmarkName</key>
 	<false/>
-	<key>ShowPaneTitles</key>
+	<key>ShowFullScreenTabBar</key>
 	<false/>
+	<key>ShowPaneTitles</key>
+	<true/>
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.10000000000000001</real>
+	<real>0.35314252804487178</real>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
