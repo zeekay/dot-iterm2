@@ -4210,11 +4210,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 139 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>453 432 770 381 0 0 1440 877 </string>
+	<string>881 524 918 495 0 0 2048 1129 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>43 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 499 1440 378 0 0 1440 877 </string>
+	<string>0 751 2048 378 0 0 2048 1129 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -5033,6 +5033,8 @@
 			<array/>
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
+			<key>Thin Strokes</key>
+			<integer>2</integer>
 			<key>Transparency</key>
 			<real>0.04133459689349113</real>
 			<key>Triggers</key>
@@ -5045,6 +5047,8 @@
 			<false/>
 			<key>Use Canonical Parser</key>
 			<false/>
+			<key>Use HFS Plus Mapping</key>
+			<true/>
 			<key>Use Italic Font</key>
 			<false/>
 			<key>Use Non-ASCII Font</key>
@@ -5869,7 +5873,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Thin Strokes</key>
-			<false/>
+			<integer>2</integer>
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Triggers</key>
@@ -5979,6 +5983,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/zk/.ellipsis/packages/iterm2</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -5998,7 +6004,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-05T21:00:02Z</date>
+	<date>2017-03-19T17:57:50Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
