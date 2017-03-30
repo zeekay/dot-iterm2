@@ -5817,13 +5817,13 @@
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>992 713 608 448 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>24 520 918 495 0 0 2048 1129 </string>
+	<string>34 743 796 473 0 0 2560 1417 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>861 371 1151 758 0 0 2048 1129 </string>
+	<string>823 510 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>859 9 1102 1115 0 0 2048 1129 </string>
+	<string>121 185 1186 673 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>417 71 766 928 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5841,13 +5841,13 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>770 384 1039 707 0 0 2560 1417 </string>
+	<string>1229 428 1116 945 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>121 738 570 367 0 0 2560 1417 </string>
+	<string>493 1050 570 367 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>491 123 731 639 0 0 1280 777 </string>
+	<string>1741 99 766 1200 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>373 36 906 741 0 0 1280 777 </string>
+	<string>373 410 570 367 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
 	<string>45 8 871 741 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
@@ -7719,7 +7719,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-20T06:16:44Z</date>
+	<date>2017-03-27T21:07:20Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -7775,7 +7775,7 @@
 	<key>WindowStyle</key>
 	<integer>0</integer>
 	<key>WordCharacters</key>
-	<string>`.l;kjo/-+\~_.</string>
+	<string> '</string>
 	<key>findIgnoreCase_iTerm</key>
 	<false/>
 	<key>findRegex_iTerm</key>
