@@ -5817,13 +5817,13 @@
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>992 713 608 448 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>34 743 796 473 0 0 2560 1417 </string>
+	<string>12 304 918 512 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>823 510 570 367 0 0 1440 877 </string>
+	<string>660 17 780 860 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>121 185 1186 673 0 0 1440 877 </string>
+	<string>54 16 1382 826 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>417 71 766 928 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5841,19 +5841,19 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>1229 428 1116 945 0 0 2560 1417 </string>
+	<string>765 391 633 486 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>493 1050 570 367 0 0 2560 1417 </string>
+	<string>155 10 1123 860 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>1741 99 766 1200 0 0 2560 1417 </string>
+	<string>278 255 885 622 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>373 410 570 367 0 0 1280 777 </string>
+	<string>343 17 1095 860 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>45 8 871 741 0 0 1280 777 </string>
+	<string>0 269 633 860 0 0 2048 1129 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>1 395 570 367 0 0 1280 777 </string>
+	<string>1 491 570 367 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
-	<string>1693 935 570 367 0 0 2560 1417 </string>
+	<string>26 268 654 860 0 0 2048 1129 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
 	<string>1190 155 1144 1200 0 0 2560 1417 </string>
 	<key>New Bookmarks</key>
@@ -6927,10 +6927,14 @@
 			<false/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.99999129772186279</real>
+				<real>1</real>
+				<key>Color Space</key>
+				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.99997437000274658</real>
+				<real>1</real>
 				<key>Red Component</key>
 				<real>1</real>
 			</dict>
@@ -7001,12 +7005,16 @@
 			<false/>
 			<key>Foreground Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.43850564956665039</real>
+				<real>0.5</real>
+				<key>Color Space</key>
+				<string>Calibrated</string>
 				<key>Green Component</key>
-				<real>0.40717673301696777</real>
+				<real>0.46427763635355307</real>
 				<key>Red Component</key>
-				<real>0.32436618208885193</real>
+				<real>0.3698540513781341</real>
 			</dict>
 			<key>Guid</key>
 			<string>8634365E-D5DB-4BE2-9E10-BF96AF083859</string>
@@ -7619,7 +7627,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>99C7D957-FCDC-4DBB-A502-8C1DDCB02797</string>
 	<key>NoSyncLastTipTime</key>
-	<real>483349555.34116602</real>
+	<real>513284726.27428901</real>
 	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
@@ -7640,6 +7648,7 @@
 	<true/>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
+		<string>000</string>
 		<string>000</string>
 		<string>000</string>
 	</array>
@@ -7719,7 +7728,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-27T21:07:20Z</date>
+	<date>2017-04-16T23:16:41Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
