@@ -5807,7 +5807,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>119 296 231 329 0 0 1440 877 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>339 133 445 77 0 0 2048 1129 </string>
+	<string>447 37 445 77 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>495 410 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -5817,15 +5817,15 @@
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>992 713 608 448 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>12 304 918 512 0 0 1440 877 </string>
+	<string>33 667 918 495 0 0 2560 1417 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>660 17 780 860 0 0 1440 877 </string>
+	<string>201 14 1234 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>54 16 1382 826 0 0 1440 877 </string>
+	<string>180 7 1130 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
-	<string>417 71 766 928 0 0 2560 1417 </string>
+	<string>1947 444 650 407 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
 	<string>449 342 619 435 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 12</key>
@@ -5841,21 +5841,21 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>765 391 633 486 0 0 1440 877 </string>
+	<string>18 178 874 692 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>155 10 1123 860 0 0 1440 877 </string>
+	<string>150 7 1266 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>278 255 885 622 0 0 1440 877 </string>
+	<string>341 64 1098 806 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>343 17 1095 860 0 0 1440 877 </string>
+	<string>250 7 1130 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>0 269 633 860 0 0 2048 1129 </string>
+	<string>0 552 1362 863 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>1 491 570 367 0 0 1440 877 </string>
+	<string>1461 478 1066 939 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
-	<string>26 268 654 860 0 0 2048 1129 </string>
+	<string>782 288 1154 1129 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
-	<string>1190 155 1144 1200 0 0 2560 1417 </string>
+	<string>1190 934 650 407 0 0 2560 1417 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -6584,7 +6584,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Hack 12</string>
+			<string>Hack 14</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -7728,7 +7728,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-04-16T23:16:41Z</date>
+	<date>2017-05-04T23:15:18Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
