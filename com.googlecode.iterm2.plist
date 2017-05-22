@@ -5807,7 +5807,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>119 296 231 329 0 0 1440 877 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>447 37 445 77 0 0 2560 1417 </string>
+	<string>116 74 445 77 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>495 410 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
@@ -5817,13 +5817,13 @@
 	<key>NSWindow Frame SUUpdateAlertFrame</key>
 	<string>992 713 608 448 0 0 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>33 667 918 495 0 0 2560 1417 </string>
+	<string>46 296 918 512 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>128 216 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>201 14 1234 863 0 0 1440 877 </string>
+	<string>776 103 650 768 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>180 7 1130 863 0 0 1440 877 </string>
+	<string>7 13 1218 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>1947 444 650 407 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -5841,17 +5841,17 @@
 	<key>NSWindow Frame iTerm Window 17</key>
 	<string>519 190 570 366 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>18 178 874 692 0 0 1440 877 </string>
+	<string>135 464 650 407 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>150 7 1266 863 0 0 1440 877 </string>
+	<string>4 218 1130 647 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>341 64 1098 806 0 0 1440 877 </string>
+	<string>799 120 578 464 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>250 7 1130 863 0 0 1440 877 </string>
+	<string>294 14 1146 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>0 552 1362 863 0 0 2560 1417 </string>
+	<string>0 14 978 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>1461 478 1066 939 0 0 2560 1417 </string>
+	<string>366 14 1010 863 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
 	<string>782 288 1154 1129 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
@@ -7427,7 +7427,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Hack 12</string>
+			<string>Hack 14</string>
 			<key>Option Key Sends</key>
 			<integer>2</integer>
 			<key>Prompt Before Closing 2</key>
@@ -7579,7 +7579,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Thin Strokes</key>
-			<integer>2</integer>
+			<integer>1</integer>
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Triggers</key>
@@ -7728,7 +7728,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-05-04T23:15:18Z</date>
+	<date>2017-05-08T04:38:20Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
