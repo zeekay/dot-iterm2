@@ -5235,9 +5235,9 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>636 503 796 473 0 0 1680 1027 </string>
+	<string>1269 932 928 394 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 671 1680 356 0 0 1680 1027 </string>
+	<string>0 1061 2560 356 0 0 2560 1417 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -5356,13 +5356,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.52241307497024536</real>
+				<real>0.6212808481510308</real>
 				<key>Color Space</key>
-				<string>Calibrated</string>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.72047728300094604</real>
+				<real>0.7647857666015625</real>
 				<key>Red Component</key>
-				<real>0.14967823028564453</real>
+				<real>0.064090018160641193</real>
 			</dict>
 			<key>Ansi 3 Color</key>
 			<dict>
