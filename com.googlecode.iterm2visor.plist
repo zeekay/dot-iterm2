@@ -5193,7 +5193,7 @@
 	<key>MinimumContrast</key>
 	<real>0.0</real>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Desktop</string>
+	<string>~/Documents</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -5235,9 +5235,9 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1269 932 928 394 0 0 2560 1417 </string>
+	<string>738 472 928 394 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 1061 2560 356 0 0 2560 1417 </string>
+	<string>0 367 1680 660 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -5434,13 +5434,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.18221640586853027</real>
+				<real>0.35310240573582402</real>
 				<key>Color Space</key>
-				<string>Calibrated</string>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.18199650943279266</real>
+				<real>0.3531023617451009</real>
 				<key>Red Component</key>
-				<real>0.19173920154571533</real>
+				<real>0.3704681396484375</real>
 			</dict>
 			<key>Ansi 9 Color</key>
 			<dict>
@@ -7343,6 +7343,8 @@
 	<string>/-+\~_.</string>
 	<key>findIgnoreCase_iTerm</key>
 	<false/>
+	<key>findMode_iTerm</key>
+	<integer>1</integer>
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
