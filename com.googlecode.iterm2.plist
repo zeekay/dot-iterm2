@@ -6468,8 +6468,8 @@
 	<false/>
 	<key>NSSplitView Subview Frames NSColorPanelSplitView</key>
 	<array>
-		<string>0.000000, 0.000000, 224.000000, 263.000000, NO, NO</string>
-		<string>0.000000, 264.000000, 224.000000, 43.000000, NO, NO</string>
+		<string>0.000000, 0.000000, 224.000000, 227.000000, NO, NO</string>
+		<string>0.000000, 228.000000, 224.000000, 43.000000, NO, NO</string>
 	</array>
 	<key>NSTableView Columns v2 KeyBingingTable</key>
 	<data>
@@ -6502,29 +6502,29 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>140 191 224 244 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
-	<string>972 932 616 174 0 0 2560 1417 </string>
+	<string>532 639 616 174 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>640 673 400 129 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>970 768 620 392 0 0 2560 1417 </string>
+	<string>530 476 620 392 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>581 636 796 486 0 0 2560 1417 </string>
+	<string>137 166 918 452 0 0 1680 1027 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
-	<string>117 293 592 584 0 0 1600 877 </string>
+	<string>154 593 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1342 337 955 1064 0 0 2560 1417 </string>
+	<string>618 184 1138 843 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>74 512 1010 699 0 0 2560 1417 </string>
+	<string>661 659 650 347 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>553 548 650 347 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
 	<string>132 680 650 347 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>7 0 1130 1027 0 0 1680 1027 </string>
+	<string>310 576 650 347 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>0 1070 650 347 0 0 2560 1417 </string>
+	<string>423 209 978 811 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>1504 951 650 347 0 0 2560 1417 </string>
+	<string>-6 422 730 603 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
 	<string>80 680 650 347 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
@@ -7479,7 +7479,7 @@
 			<key>Thin Strokes</key>
 			<integer>2</integer>
 			<key>Transparency</key>
-			<real>0.047220019035532995</real>
+			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -8492,7 +8492,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-06-12T19:56:10Z</date>
+	<date>2018-08-16T07:06:33Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -8528,7 +8528,7 @@
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<true/>
 	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1526094848</real>
+	<real>1534107136</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -8554,7 +8554,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.2.0beta3</string>
+	<string>3.2.0beta9</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
