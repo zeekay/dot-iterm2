@@ -16,6 +16,8 @@
 	<integer>1</integer>
 	<key>AppleFontSmoothing</key>
 	<integer>2</integer>
+	<key>ApplePressAndHoldEnabled</key>
+	<false/>
 	<key>AppleScrollAnimationEnabled</key>
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
@@ -6506,7 +6508,7 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>140 191 224 244 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
-	<string>652 752 616 174 0 0 1920 1177 </string>
+	<string>532 639 616 174 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>640 673 400 129 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
@@ -6516,29 +6518,37 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>126 443 592 584 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>829 270 650 324 0 0 1680 1027 </string>
+	<string>2559 1085 26 97 2560 155 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>122 317 778 388 0 0 1680 1027 </string>
+	<string>2773 155 810 1027 2560 155 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
-	<string>553 548 650 347 0 0 2560 1417 </string>
+	<string>553 564 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
-	<string>132 680 650 347 0 0 1680 1027 </string>
+	<string>611 441 794 708 0 0 2560 1417 </string>
+	<key>NSWindow Frame iTerm Window 12</key>
+	<string>527 732 650 324 0 0 2560 1417 </string>
+	<key>NSWindow Frame iTerm Window 13</key>
+	<string>548 709 650 324 0 0 2560 1417 </string>
+	<key>NSWindow Frame iTerm Window 14</key>
+	<string>733 272 1178 804 0 0 2560 1417 </string>
+	<key>NSWindow Frame iTerm Window 15</key>
+	<string>590 663 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>276 372 666 420 0 0 1680 1027 </string>
+	<string>754 0 922 956 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>428 62 1114 666 0 0 1920 1177 </string>
+	<string>1276 300 722 852 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>0 681 650 346 0 0 1920 1177 </string>
+	<string>419 339 1050 676 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>0 681 650 346 0 0 1920 1177 </string>
+	<string>0 892 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 6</key>
-	<string>36 313 1106 714 0 0 1920 1177 </string>
+	<string>1286 6 810 1204 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
-	<string>684 681 650 346 0 0 1920 1177 </string>
+	<string>776 338 1042 932 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 8</key>
-	<string>0 0 1634 1177 0 0 1920 1177 </string>
+	<string>0 848 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 9</key>
-	<string>598 31 1322 1146 0 0 1920 1177 </string>
+	<string>1238 1048 650 324 0 0 2560 1417 </string>
 	<key>NeverWarnAboutShortLivedSessions_FDFF2972-506F-458B-B10B-B4F710961013</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_FDFF2972-506F-458B-B10B-B4F710961013_selection</key>
@@ -6824,7 +6834,7 @@
 			<key>Columns</key>
 			<integer>80</integer>
 			<key>Command</key>
-			<string></string>
+			<string>/usr/local/bin/zsh</string>
 			<key>Cursor Boost</key>
 			<real>0.0</real>
 			<key>Cursor Color</key>
@@ -6904,7 +6914,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>/bin/sh</string>
+			<string></string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -8497,7 +8507,11 @@
 	</array>
 	<key>NoSyncAllAppVersions</key>
 	<array>
+		<string>3.3.8beta5</string>
 		<string>3.3.0beta4</string>
+		<string>3.3.7beta2</string>
+		<string>3.3.7beta4</string>
+		<string>3.3.7beta3</string>
 		<string>3.3.7beta1</string>
 	</array>
 	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
@@ -8505,9 +8519,9 @@
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
-		<string>{{0, 0}, {1680, 1050}}</string>
+		<string>{{0, 0}, {2560, 1440}}</string>
 		<key>topLeft</key>
-		<string>{269, 595}</string>
+		<string>{206, 813}</string>
 	</dict>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
 	<true/>
@@ -8518,7 +8532,7 @@
 	<key>NoSyncLastTipTime</key>
 	<real>525810098.74973202</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>19</integer>
+	<integer>33</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -9335,7 +9349,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-10-15T23:59:43Z</date>
+	<date>2020-02-02T04:08:01Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
@@ -9369,9 +9383,9 @@
 	<key>TabStyle</key>
 	<integer>0</integer>
 	<key>TabStyleWithAutomaticOption</key>
-	<integer>5</integer>
+	<integer>6</integer>
 	<key>TabViewType</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>ThreeFingerEmulates</key>
 	<false/>
 	<key>TmuxDashboardLimit</key>
@@ -9411,7 +9425,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.3.7beta1</string>
+	<string>3.3.8beta5</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
