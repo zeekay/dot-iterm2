@@ -6520,9 +6520,9 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>126 443 592 584 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>515 305 996 665 0 0 2560 1415 </string>
+	<string>195 3 1485 1018 0 0 1680 1025 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>558 460 650 362 0 0 1680 1025 </string>
+	<string>895 158 1162 1231 0 0 2560 1415 </string>
 	<key>NSWindow Frame iTerm Window 10</key>
 	<string>553 564 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 11</key>
@@ -6536,7 +6536,7 @@
 	<key>NSWindow Frame iTerm Window 15</key>
 	<string>590 663 650 324 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>754 0 922 956 0 0 1680 1027 </string>
+	<string>1629 605 650 362 0 0 2560 1415 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>1276 300 722 852 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -8546,7 +8546,7 @@
 	<key>NoSyncLastTipTime</key>
 	<real>525810098.74973202</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>72</integer>
+	<integer>73</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -9366,6 +9366,8 @@
 	<string>~/.ellipsis/packages/iterm2</string>
 	<key>PreserveWindowSizeWhenTabBarVisibilityChanges</key>
 	<false/>
+	<key>PreventEscapeSequenceFromClearingHistory</key>
+	<false/>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -9387,7 +9389,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-08-18T20:02:00Z</date>
+	<date>2020-08-19T22:00:16Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
