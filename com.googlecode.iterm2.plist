@@ -10844,8 +10844,6 @@
 	</dict>
 	<key>PreserveWindowSizeWhenTabBarVisibilityChanges</key>
 	<false/>
-	<key>PreventEscapeSequenceFromClearingHistory</key>
-	<false/>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -10924,6 +10922,8 @@
 	<string> '</string>
 	<key>findIgnoreCase_iTerm</key>
 	<false/>
+	<key>findMode_iTerm</key>
+	<integer>1</integer>
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>kCPKSelectionViewPreferredModeKey</key>
