@@ -9438,7 +9438,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>6.6004056896552079</real>
+			<real>23.667727726063831</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -9995,13 +9995,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882354378700256</real>
+				<real>0.25356069207191467</real>
 				<key>Color Space</key>
-				<string>sRGB</string>
+				<string>P3</string>
 				<key>Green Component</key>
-				<real>0.21176470816135406</real>
+				<real>0.20825159549713135</real>
 				<key>Red Component</key>
-				<real>0.027450980618596077</real>
+				<real>0.088273070752620697</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -10121,8 +10121,10 @@
 			<string>xterm-256color</string>
 			<key>Thin Strokes</key>
 			<integer>4</integer>
+			<key>Title Components</key>
+			<integer>1</integer>
 			<key>Transparency</key>
-			<real>0.040000000000000001</real>
+			<real>0.073329454787234044</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -10358,7 +10360,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>5.4311548223350243</real>
+			<real>23.559740691489363</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -10858,7 +10860,7 @@
 			<key>Normal Font</key>
 			<string>SFMonoNerdFontComplete-Regular 13</string>
 			<key>Only The Default BG Color Uses Transparency</key>
-			<false/>
+			<true/>
 			<key>Option Key Sends</key>
 			<integer>2</integer>
 			<key>Prompt Before Closing 2</key>
@@ -11147,13 +11149,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.25882354378700256</real>
+				<real>0.46379671391752575</real>
 				<key>Color Space</key>
-				<string>sRGB</string>
+				<string>P3</string>
 				<key>Green Component</key>
-				<real>0.21614879369735718</real>
+				<real>0.43903260328481247</real>
 				<key>Red Component</key>
-				<real>0.049006048589944839</real>
+				<real>0.45559731645861601</real>
 			</dict>
 			<key>Ansi 1 Color</key>
 			<dict>
@@ -11316,13 +11318,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.83529412746429443</real>
+				<real>0.93655555081691433</real>
 				<key>Color Space</key>
-				<string>sRGB</string>
+				<string>P3</string>
 				<key>Green Component</key>
-				<real>0.90980392694473267</real>
+				<real>0.95795747422680411</real>
 				<key>Red Component</key>
-				<real>0.93333333730697632</real>
+				<real>0.91016721232912046</real>
 			</dict>
 			<key>Ansi 8 Color</key>
 			<dict>
@@ -11393,7 +11395,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>6.6004056896552079</real>
+			<real>24.248379321808514</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -11518,11 +11520,11 @@
 			<key>HotKey Window AutoHides</key>
 			<true/>
 			<key>HotKey Window Dock Click Action</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>HotKey Window Floats</key>
 			<true/>
 			<key>HotKey Window Reopens On Activation</key>
-			<false/>
+			<true/>
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
@@ -12108,8 +12110,10 @@
 			<string>xterm-256color</string>
 			<key>Thin Strokes</key>
 			<integer>4</integer>
+			<key>Title Components</key>
+			<integer>1</integer>
 			<key>Transparency</key>
-			<real>0.040000000000000001</real>
+			<real>0.074177194148936171</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -12222,7 +12226,7 @@
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.36596304086538467</real>
 	<key>StatusBarPosition</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>SuppressRestartAnnouncement</key>
 	<true/>
 	<key>SwitchTabModifier</key>
